@@ -22,6 +22,7 @@
 | 作业提交要求 | [作业提交要求](others/作业提交要求.pdf)           |
 | 图论 第一章  | [图论-Chapter01.pdf](slides/图论-Chapter01.pdf)   |
 | 图论 第二章  | [图论-Chapter02.pdf](./slides/图论-Chapter02.pdf) |
+| 图论 第三章  | [图论-Chapter03.pdf](./slides/图论-Chapter03.pdf)|
 
 ## 课后作业 / Exercise
 
