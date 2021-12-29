@@ -60,6 +60,7 @@
 | 数理逻辑 第五章 | [数理逻辑-Chapter05.pdf](./slides/数理逻辑-Chapter05.pdf) |
 | 集合论 第九章 | [集合论-Chapter09.pdf](./slides/集合论-Chapter09.pdf) |
 | 集合论 第十章 | [集合论-Chapter10.pdf](./slides/集合论-Chapter10.pdf) |
+| 集合论 第十一章 | [集合论-Chapter11.pdf](./slides/集合论-Chapter11.pdf) |
 
 ## 课后作业 / Exercise
 
