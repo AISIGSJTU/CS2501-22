@@ -53,7 +53,7 @@
 
 | 时间      | 补充题                                                    | 习题课 |
 | --------- | --------------------------------------------------------- | ------ |
-| 2022/10/18 | [exercise 1](./exercises/exercise-1.pdf) |        |
+| 2022/10/18 | [exercise 1](./exercises/exercise-1.pdf) | [exercise 1 solution](./exercises/exercise-1-solution.pdf) |
 
 ### 随堂测试
 
