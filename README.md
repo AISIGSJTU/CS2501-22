@@ -58,8 +58,8 @@
 | 2022/10/18 | [exercise 1](./exercises/exercise-1.pdf) | [exercise 1 solution](./exercises/exercise-1-solution.pdf) |
 | 2022/11/22 | [exercise 2](./exercises/exercise-2.pdf) | [习题课](./exercises/exercise-2-solution.pdf)<br/>[参考答案](./exercises/exercise-2-answer.pdf) |
 | 2022/12/27 | [exercise 3](./exercises/exercise-3.pdf) | [参考答案](./exercises/exercise-3-answer.pdf) |
-| 2022/12/27 | [review](./exercises/exercise-4.pdf)||
-（特别需要说明12.27日习题课视频所用PPT中，21页右侧答案为ABCD，23页原本题干中的S没有意义，在此处review中已经修改）
+| 2022/12/27 | [review](./exercises/exercise-4.pdf)（特别需要说明12.27日习题课视频所用PPT中，21页右侧答案为ABCD，23页原本题干中的S没有意义，在此处review中已经修改）||
+
 
 ### 随堂测试
 
